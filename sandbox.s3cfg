@@ -1,0 +1,8 @@
+[default]
+access_key = sandbox
+secret_key = s3cr3t
+
+host_base = 127.0.0.1:8000
+host_bucket = 127.0.0.1:8000
+
+use_https = False
